@@ -1,0 +1,1 @@
+import{fU as a}from"./index-C0Px9hMo.js";function c(e,r){const o=document.createElement("textarea");o.value=e,document.body.appendChild(o),o.focus(),o.select();try{document.execCommand("copy")}catch(t){r(t)}o.remove()}function i(e,r=a().onCopyError){if(!navigator.clipboard){c(e,r);return}navigator.clipboard.writeText(e).catch(console.error)}export{i as c};

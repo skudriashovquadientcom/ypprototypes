@@ -1,0 +1,4 @@
+prototype: cp-user-testing
+source: v2-front@ae634ba42b216383c3ae47b3b806de37aedff7f3 on prototypes
+built: 2026-10-30T16:35:00Z
+by: Martin Kulhanek
