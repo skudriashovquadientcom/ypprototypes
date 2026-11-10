@@ -1,0 +1,4 @@
+prototype: ai-reporting-v2
+source: v2-front@c02681da28937af9dcfb6d9b47c92cbd11cd4ec6 on prototypes
+built: 2026-11-10T12:08:26Z
+by: Martin Kulhanek
