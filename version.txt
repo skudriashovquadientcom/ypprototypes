@@ -1,0 +1,4 @@
+prototype: ai-reporting-answer-save (deployed as ai-reporting-answer-save-new)
+source: v2-front@42efff259624385504c9cf6667509d8d95ac67df on prototypes
+built: 2026-11-12T15:08:25Z
+by: Martin Kulhanek
