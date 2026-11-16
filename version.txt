@@ -1,0 +1,4 @@
+prototype: ai-reporting-flows
+source: v2-front@874f0386d553dec32c61f14560360f1d5b92f71b on prototypes
+built: 2026-11-16T13:46:20Z
+by: Martin Kulhanek
